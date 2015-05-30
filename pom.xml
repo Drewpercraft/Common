@@ -12,7 +12,7 @@
     <!-- Project information -->
     <groupId>com.drewpercraft</groupId>
     <artifactId>Common</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT-b{$BUILD_NUMBER}</version>
     <name>Common</name>
     <url>https://github.com/Drewpercraft/Common</url>
 
